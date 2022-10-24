@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jlmh-admin/name-it/static/css/main.5a597359.css",
+    "main.js": "/jlmh-admin/name-it/static/js/main.cb5aa71e.js",
+    "index.html": "/jlmh-admin/name-it/index.html",
+    "main.5a597359.css.map": "/jlmh-admin/name-it/static/css/main.5a597359.css.map",
+    "main.cb5aa71e.js.map": "/jlmh-admin/name-it/static/js/main.cb5aa71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a597359.css",
+    "static/js/main.cb5aa71e.js"
+  ]
+}
